@@ -1,0 +1,9 @@
+Error Handling:
+
+Includes robust error handling for scenarios like division by zero and invalid expressions, providing informative error messages to users.
+Continuous Operation:
+
+The calculator operates in a continuous loop, allowing users to perform multiple calculations without the need to restart the application.
+Result History:
+
+Remembers and displays the result of the previous calculation, enhancing user experience for multi-step calculations.
